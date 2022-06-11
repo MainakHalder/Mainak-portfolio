@@ -4,6 +4,8 @@ These is a personal portfolio in making.
 
 Learning Web development.
 
+I am pursuing computer science enginnering from Presidency University,Bangalore
+
 Skills of mine -
 
 1.C
